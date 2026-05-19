@@ -67,7 +67,7 @@ export default function Dashboard() {
   return (
     <div className="container">
       <div className="header">
-        <h1>Student Task Management CI/CD Demo</h1>
+        <h1>Student Task Management - TaskSim</h1>
         <p>Manage your daily assignments and lab tasks</p>
       </div>
       
