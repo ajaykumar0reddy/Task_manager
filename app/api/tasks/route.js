@@ -1,5 +1,7 @@
 import { NextResponse } from 'next/server';
-import db from '@/lib/db';
+import { getDb } from '@/lib/db';
+
+const db = getDb();
 
 // GET /api/tasks
 export async function GET() {
