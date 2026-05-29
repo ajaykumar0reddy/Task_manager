@@ -42,7 +42,7 @@ docker build -t student-task-manager .
 ```bash
 docker run -p 3000:3000 student-task-manager
 ```
-Then visit `http://localhost:3000` in your browser.
+Then visit `http://localhost:3000` in your browser
 
 ## CI/CD Pipeline
 This project is suitable for integration into a Jenkins pipeline. The standard workflow includes:
