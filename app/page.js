@@ -271,7 +271,7 @@ export default function Home() {
               onClick={() => setActiveTab('tavern')}
             >
               <Flame size={18} />
-              <span>Tavern (New Quest)</span>
+              <span>Tavern (New Quest) Check</span>
             </button>
           </li>
           <li>
